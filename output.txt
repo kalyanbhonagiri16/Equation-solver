@@ -1,0 +1,8 @@
+$ python evaluate.py equations.txt
+location = 16
+offset = 7
+origin = 8
+random = 2
+solar = 3
+sustainable = 6
+tesla = 3
